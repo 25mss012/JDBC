@@ -11,7 +11,11 @@ CREATE TABLE student (
     name VARCHAR(50),
     marks INT
 );
+
+
 2. Complete Java Program
+
+
 import java.sql.*;
 import java.util.Scanner;
 
@@ -208,7 +212,11 @@ public class StudentCRUD {
         sc.close();
     }
 }
+
+
 3. Sample Output
+
+
 ================================
    JDBC DATABASE CONNECTED
 ================================
